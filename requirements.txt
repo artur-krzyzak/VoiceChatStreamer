@@ -1,3 +1,5 @@
+libavformat-dev
+libavdevice-dev
 tgcrypto
 youtube_dl
 pafy
